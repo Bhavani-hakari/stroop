@@ -11,7 +11,7 @@ The script requires the following dependencies:
 - `time`: Used for measuring response times.
 - `threading`: Used for running input reading in a separate thread.
 - `termcolor`: Used for displaying colored text.
-- `song_timing`: A custom module for measuring song timing. (The implementation of this module is not provided.)
+- `song_timing`: A custom module for measuring song timing. 
 
 Please make sure to have these dependencies installed before running the script.
 
