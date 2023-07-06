@@ -28,7 +28,7 @@ Please make sure to have these dependencies installed before running the script.
 
 In the stress mode (choice `1`), the script will perform the following steps:
 
-1. Measure song timing: The script will measure the response time for two songs using the `perform_song_timing` function (implementation not provided).
+1. Measure song timing: The script will measure the response time for two songs using the `perform_song_timing` function.
 
 2. Stroop Experiment Questions: The script will present a total of 10 randomly selected Stroop experiment questions. The questions will ask about the color of the displayed words, and the participant needs to choose the correct color from the provided options. The response time for each question will be recorded.
 
